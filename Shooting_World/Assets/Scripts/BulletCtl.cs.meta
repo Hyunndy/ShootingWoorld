@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 438b70d8acc9f8b459a214cb110f68cc
+timeCreated: 1495140113
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {fileID: 1811182347800206, guid: 2ca563e8cdb801549b0531eee06f6fa2,
+      type: 2}
+  - FirebulletPrefab: {fileID: 1787710792593800, guid: e7b26a4951def9b4589d45f809674659,
+      type: 2}
+  - BluebulletPrefab: {fileID: 1180955845755064, guid: 3ec4269b0d32f474c953db9517463e27,
+      type: 2}
+  - bulletSpawn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
